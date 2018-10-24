@@ -10,7 +10,8 @@ namespace First_Program
     {
         static void Main(string[] args)
         {
-            // << I'm The Best in the World >>
+            // << I'm The Best in the Whole World >>
+
             Console.WriteLine("hello world \n my name is Abdo Alabed");
             
             Console.ReadKey();
